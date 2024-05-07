@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+        font-family: 'Amatic SC', cursive;
+        font-size:36px;
+    
+}
+
+h1 {
+    margin-bottom: 50px;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+    margin-top: 30px;
+}
